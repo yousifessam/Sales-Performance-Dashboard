@@ -86,6 +86,11 @@ The dashboard enables decision-makers to quickly identify:
 - How revenue is distributed across payment methods.
 - Overall sales volume and order performance.
 
+## Dashboard Preview
+
+![Sales Performance Dashboard](dashboard-preview.png)
+
+
 ## 👤 Author
 
 **Yousif Essam**
